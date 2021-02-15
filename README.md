@@ -9,17 +9,26 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from IPython import display
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+import statsmodels.api as sm
+
+All libraries cited in the code are pre-installed along with the Anaconda distribution of Python. The code should be executable using Python versions 3.*.
+
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+This project took a deeper look at a survey on a small international student body conducted in 2019. I would like to know which demographic tend to do well/poorly and what can be improved in the course design to help them do better or be more interested. Thus, I would like to answer a few questions by analyzing the survey data:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+1. Which age group demonstrates the best academic performance?
+2. Which program has the students tend to perform well?
+3. Which survey question has the highest correlation to grade performance of the students?
+4. Does attending the classes help the students getting better grade?
+
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
