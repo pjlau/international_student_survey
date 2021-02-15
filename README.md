@@ -32,7 +32,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://jimpikkin.medium.com/a-quick-glance-of-student-time-management-vs-performance-8b1815e2d5).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
