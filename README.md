@@ -9,14 +9,6 @@
 
 ## Installation <a name="installation"></a>
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from IPython import display
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-import statsmodels.api as sm
-
 All libraries cited in the code are pre-installed along with the Anaconda distribution of Python. The code should be executable using Python versions 3.*.
 
 
