@@ -33,7 +33,7 @@ The literal analysis is posted in Medium.  This README also serves as a suppleme
 
 ## Results<a name="results"></a>
 
-The main analytic findings can be found at the Medium post available [here](https://github.com/pjlau/international_student_survey/blob/main/International%20Students%20Survey.ipynb).
+The main analytic findings can be found at the Jupyter notebook available [here](https://github.com/pjlau/international_student_survey/blob/main/International%20Students%20Survey.ipynb).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
